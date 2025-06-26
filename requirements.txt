@@ -1,0 +1,13 @@
+# === Required Python Libraries ===
+
+aiohttp==3.9.5
+nest_asyncio==1.6.0
+python-telegram-bot==20.7
+playwright==1.52.0
+pytz==2024.1
+
+# === Playwright Dependency ===
+pyee>=13,<14
+
+# Optional (if you want screenshots in Telegram)
+Pillow==10.3.0

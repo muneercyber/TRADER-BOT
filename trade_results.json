@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-26T13:05:12.930071",
+    "user": 5734178963,
+    "pair": "BTCUSD_otc",
+    "entry": 100,
+    "exit": 100,
+    "result": "LOSS",
+    "direction": "SELL"
+  },
+  {
+    "timestamp": "2025-06-26T13:09:06.542411",
+    "user": 5734178963,
+    "pair": "GBPUSD_otc",
+    "entry": 100,
+    "exit": 100,
+    "result": "LOSS",
+    "direction": "BUY"
+  },
+  {
+    "timestamp": "2025-06-26T13:10:03.193786",
+    "user": 5734178963,
+    "pair": "ETHUSD_otc",
+    "entry": 100,
+    "exit": 100,
+    "result": "LOSS",
+    "direction": "BUY"
+  },
+  {
+    "timestamp": "2025-06-26T13:10:44.987507",
+    "user": 5734178963,
+    "pair": "ETHUSD_otc",
+    "entry": 100,
+    "exit": 100,
+    "result": "LOSS",
+    "direction": "BUY"
+  },
+  {
+    "timestamp": "2025-06-26T13:11:37.960702",
+    "user": 5734178963,
+    "pair": "USDJPY_otc",
+    "entry": 100,
+    "exit": 100,
+    "result": "LOSS",
+    "direction": "SELL"
+  },
+  {
+    "timestamp": "2025-06-26T13:21:04.529454",
+    "user": 5734178963,
+    "pair": "USDJPY_otc",
+    "entry": 100,
+    "exit": 100,
+    "result": "LOSS",
+    "direction": "SELL"
+  }
+]
